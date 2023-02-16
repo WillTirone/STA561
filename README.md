@@ -7,7 +7,7 @@ The homework is divided into two parts within the *.ipynb* file.
     
  **Function Definition**
  
-The function *tune_bb* is defined to take inputs to automate the tuning of blackbox regression methods, more information on the inputs is included within the function definiton. To ensure stability of the function, error cases are defined. Further, the training data is standardized to make it internally consistent. Following which regularization-specific tuning is mapped out where-in the k-fold (with a user-defined value for k) cross validation is performed to achieve optimum values for the parameters. Once, the optimum parameters are achieved, the data is transformed and the tuned model is fitted and returned.
+The function *tune_bb* is defined to take inputs to automate the tuning of blackbox regression methods, more information on the inputs is included within the function definiton. To ensure stability of the function, error cases are defined. Further, the training data is standardized to make it internally consistent. Following which regularization-specific tuning is mapped out where-in the k-fold (with a user-defined value for k) cross validation is performed to achieve optimum values for the parameters which are used to generate more data. Once, the optimum parameters are achieved and more data is generated, the existing training data is transformed and the tuned model is fitted and returned.
  
  **Function Implementation**
  
