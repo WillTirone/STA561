@@ -1,4 +1,8 @@
-# STA561 HW Repo
+# STA561 Homework Repo
+
+[Class Website](https://ericlaber.github.io/)
+
+TA: Rick Presman
 
 ## Authors
 
@@ -7,8 +11,6 @@
 - Tommy Misikoff (UID: 1166813)  
 - Sanskriti Purohit (UID: 1179957)  
 - Will Tirone (UID: 1130904)  
-
-TA: Rick Presman
 
 ## Assignments
 
