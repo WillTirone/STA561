@@ -1,17 +1,18 @@
-# STA561 Homework 3
+# STA561 HW Repo
 
-The homework is divided into two parts within the *.ipynb* file.
+## Authors
 
-    1. Function Definition.
-    2. Function Implementation.
-    
- **Function Definition**
- 
-The function *tune_bb* is defined to take inputs to automate the tuning of blackbox regression methods, more information on the inputs is included within the function definiton. To ensure stability of the function, error cases are defined. Further, the training data is standardized to make it internally consistent. Following which regularization-specific tuning is mapped out where-in the k-fold (with a user-defined value for k) cross validation is performed to achieve optimum values for the parameters which are used to generate more data. Once, the optimum parameters are achieved and more data is generated, the existing training data is transformed and the tuned model is fitted and returned.
- 
- **Function Implementation**
- 
- The function is implemented on the *iris* dataset to demonstrate the function's use on two regression methods, Ridge Regression and Linear Regression with MSE and MAD/MAE as their criterions respectively. It can be observed that the coeffecients and the criterions obtained by all 3 methods when applied the two models achieve approximately the same result, with minor deviations.
- 
- 
-Similarly, the function can be implemented on different datasets with other blackbox models to optimize a specified criterion.
+- Alonso Guerrero Castaneda (UID: 1194613)  
+- Eli Gnesin (UID: 1172961)  
+- Tommy Misikoff (UID: 1166813)  
+- Sanskriti Purohit (UID: 1179957)  
+- Will Tirone (UID: 1130904)  
+
+TA: Rick Presman
+
+## Assignments
+
+- [Homework 1](hw1/)
+- [Homework2](hw2/)
+- [Homework 3](hw3/)
+- [Homework 4](hw4/)
