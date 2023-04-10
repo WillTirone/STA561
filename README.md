@@ -19,6 +19,4 @@ TA: Rick Presman
 - [Homework 3](hw3/)
 - [Homework 4](hw4/)
 - [Homework 5 & 6](hw5/)
-- [Homework 7](hw7/)
-- [Homework 8 & 9](hw8/)
-- [Homework 10](hw10/)
+- [Homework 7 & 8](hw7/)
